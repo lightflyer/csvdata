@@ -1,0 +1,10 @@
++,23.202.110.142,2016-12-05 00:20:37,fastflux,watcherlab,美国-佛罗里达州-迈阿密-akamai.com,US,1,[],[]
++,52.216.1.42,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
++,52.216.1.130,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Cisco IP Phone 7971G-GE,80
++,52.216.66.58,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,NetworkAlchemy ArgentBranch PBX,80
+=,52.216.80.18,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,SonicWALL PRO 2040 firewall (SonicOS 3.1),80
++,52.216.225.186,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Cisco IP Phone 7975G,80
++,54.231.49.106,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,None,80
++,54.231.114.26,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,54.231.114.233,2016-12-05 00:20:37,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,0,[],[]
+=,104.118.204.134,2016-12-05 00:20:37,fastflux,watcherlab,美国-美国-akamai.com,US,1,[],[]

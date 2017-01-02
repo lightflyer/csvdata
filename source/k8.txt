@@ -1,0 +1,2 @@
++,http://www.haccpszkolenia.pl/modules/mod_related_items/tmpl/review/,2016-12-01 00:02:10,2016-12-01 00:02:10,phishing,openphish.com,1,65
++,http://bit.ly/2dnttgp,2016-12-01 00:02:10,2016-12-01 00:02:10,phishing,openphish.com,0,65

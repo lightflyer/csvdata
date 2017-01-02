@@ -1,0 +1,10 @@
++,23.46.249.160,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-akamai.com,US,1,[],[]
++,23.202.110.142,2016-12-07 00:17:19,fastflux,watcherlab,美国-佛罗里达州-迈阿密-akamai.com,US,1,[],[]
+=,52.216.0.202,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Cisco IP Phone 7975G,80
++,54.231.14.164,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,None,80
+=,54.231.49.106,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,None,80
++,54.231.73.57,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,SonicWALL PRO 2040 firewall (SonicOS 3.1),80
++,54.231.114.26,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
++,69.192.221.161,2016-12-07 00:17:19,fastflux,watcherlab,美国-伊利诺伊州-芝加哥-akamai.com,US,1,[],[]
++,104.72.34.75,2016-12-07 00:17:19,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-akamai.com,US,1,Lexmark C534dn printer,443
++,104.102.61.194,2016-12-07 00:17:19,fastflux,watcherlab,德国-汉堡州-汉堡-akamai.com,DE,1,[],[]

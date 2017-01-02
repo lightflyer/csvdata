@@ -1,0 +1,15 @@
++,trujillo_pamela37@pacmasta.com,2016-12-04 00:13:08,2016-12-04 00:13:08,uce_uce-email-address,csirtg.io,85
++,pickett_dick37@p-may.net,2016-12-04 05:40:59,2016-12-04 05:40:59,uce_uce-email-address,csirtg.io,85
++,wtmsfwd@lxjz.com,2016-12-04 08:02:14,2016-12-04 08:02:14,uce_uce-email-address,csirtg.io,85
++,1660041169@qq.com,2016-12-04 08:02:14,2016-12-04 08:02:14,uce_uce-email-address,csirtg.io,85
++,business_class_airfare@airlinfares.bid,2016-12-04 08:18:47,2016-12-04 08:18:47,uce_uce-email-address,csirtg.io,85
++,haskins_lila37@pachotour.com,2016-12-04 09:34:36,2016-12-04 09:34:36,uce_uce-email-address,csirtg.io,85
++,one_year_bachelor@bechlrcours.bid,2016-12-04 09:52:49,2016-12-04 09:52:49,uce_uce-email-address,csirtg.io,85
++,andrew-raposo@proflatvally.bid,2016-12-04 11:21:45,2016-12-04 11:21:45,uce_uce-email-address,csirtg.io,85
++,brett_western@painrelieff.bid,2016-12-04 12:46:52,2016-12-04 12:46:52,uce_uce-email-address,csirtg.io,85
++,hilmerd@ci.guilford.ct.us,2016-12-04 00:00:00,2016-12-04 00:00:00,phishing,anti-phishing-email-reply,75
++,help.desk.team0016@tech-center.com,2016-12-04 00:00:00,2016-12-04 00:00:00,phishing,anti-phishing-email-reply,85
++,teds-woods-working@woodplns.bid,2016-12-04 15:06:49,2016-12-04 15:06:49,uce_uce-email-address,csirtg.io,85
++,carola.asmus@eskilstuna.se,2016-12-04 00:00:00,2016-12-04 00:00:00,phishing,anti-phishing-email-reply,75
++,don.policastro@hahv.org,2016-12-04 00:00:00,2016-12-04 00:00:00,phishing,anti-phishing-email-reply,75
++,mohamed.gad@sgs.com,2016-12-04 00:00:00,2016-12-04 00:00:00,phishing,anti-phishing-email-reply,75

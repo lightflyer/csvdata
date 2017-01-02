@@ -1,0 +1,10 @@
+=,52.216.0.202,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,NetworkAlchemy ArgentBranch PBX,80
+=,52.216.17.18,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,52.216.66.58,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,52.216.80.178,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,54.231.11.114,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,None,80
+=,54.231.49.106,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0),80
+=,54.231.73.57,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,54.231.88.9,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Motorola SURFboard SB5100i cable modem,80
+=,54.231.114.26,2016-12-19 00:17:55,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,104.96.218.15,2016-12-19 00:17:55,fastflux,watcherlab,美国-美国-akamai.com,US,1,LinksysWET54GS5WAP_TranzeoTR-CPQ-19fWAP_orXeroxWorkCentrePro265printer,80

@@ -1,0 +1,15 @@
++,wells_heather@pac-rite.com,2016-12-02 01:45:03,2016-12-02 01:45:03,uce_uce-email-address,csirtg.io,85
++,segura_chadwick@pacificbroadcast.com,2016-12-02 01:47:31,2016-12-02 01:47:31,uce_uce-email-address,csirtg.io,85
++,emerson_tonya@palandchoices.com,2016-12-02 03:19:45,2016-12-02 03:19:45,uce_uce-email-address,csirtg.io,85
++,means_jayne@p-v.pl,2016-12-02 03:19:57,2016-12-02 03:19:57,uce_uce-email-address,csirtg.io,85
++,ellegienhfa@p-abi.de,2016-12-02 03:27:22,2016-12-02 03:27:22,uce_uce-email-address,csirtg.io,85
++,my-everyday-health@frosklinnxt.bid,2016-12-02 12:48:34,2016-12-02 12:48:34,uce_uce-email-address,csirtg.io,85
++,agregoire@med.wayne.edu,2016-12-02 00:00:00,2016-12-02 00:00:00,phishing,anti-phishing-email-reply,75
++,amanda.dimas@christushealth.org,2016-12-02 00:00:00,2016-12-02 00:00:00,phishing,anti-phishing-email-reply,75
++,peterson.852@osu.edu,2016-12-02 00:00:00,2016-12-02 00:00:00,phishing,anti-phishing-email-reply,75
++,skelsey@bowiestate.edu,2016-12-02 00:00:00,2016-12-02 00:00:00,phishing,anti-phishing-email-reply,75
++,antwi.18s@osu.edu,2016-12-02 00:00:00,2016-12-02 00:00:00,phishing,anti-phishing-email-reply,85
++,ga5888@wayne.edu,2016-12-02 00:00:00,2016-12-02 00:00:00,phishing,anti-phishing-email-reply,85
++,westbrook_roosevelt37@paddlemixers.com,2016-12-02 15:22:34,2016-12-02 15:22:34,uce_uce-email-address,csirtg.io,85
++,hatch_terri37@paisleyschae.com,2016-12-02 15:28:22,2016-12-02 15:28:22,uce_uce-email-address,csirtg.io,85
++,dennis_michael37@packslush.com,2016-12-02 15:29:25,2016-12-02 15:29:25,uce_uce-email-address,csirtg.io,85

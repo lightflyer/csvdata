@@ -1,0 +1,10 @@
+=,52.216.0.202,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Cisco AP340 WAP (VxWorks 5.4),80
+=,52.216.1.42,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,52.216.1.130,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Cisco IP Phone 7971G-GE,80
+=,52.216.66.50,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,[],[]
+=,52.216.225.186,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,Cisco IP Phone 7975G,80
+=,54.231.49.106,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,1,None,80
+=,54.231.114.233,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-amazon.com,US,0,[],[]
+=,104.84.127.11,2016-12-03 00:17:05,fastflux,watcherlab,美国-华盛顿-akamai.com,US,1,Asus RT-N10 router or AXIS 211A Network Camera (Linux 2.6),443
+=,104.95.61.235,2016-12-03 00:17:05,fastflux,watcherlab,美国-弗吉尼亚州-阿什本-akamai.com,US,1,[],[]
+=,104.118.204.134,2016-12-03 00:17:05,fastflux,watcherlab,美国-美国-akamai.com,US,1,[],[]
